@@ -1,0 +1,4 @@
+var fxprofitpips;
+var fxprofitpips.com;
+Console.log("Free live signals providers");
+Print("LIVE SIGNALS PROVIDER");
